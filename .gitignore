@@ -1,0 +1,26 @@
+## Ignore Salesforce project files
+## f
+##
+## 
+
+# User-specific files
+.forceignore
+sfdx-project.json
+sfdx-config.json
+settings.json
+project-scratch-def.json
+metadataTypeInfos.json
+apex.db
+*.ts
+.eslintrc.json
+jsconfig.json
+package.xml
+extension.json
+launch.json
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+
+
+# Build results
+
+
