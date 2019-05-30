@@ -93,6 +93,7 @@ global class Lead {
     global List<ProcessInstance> ProcessInstances;
     global List<ProcessInstanceHistory> ProcessSteps;
     global String ProductInterest__c;
+    global List<LeadAssociation__c> Prospect__r;
     global String Rating;
     global List<RecordActionHistory> RecordActionHistories;
     global List<RecordAction> RecordActions;

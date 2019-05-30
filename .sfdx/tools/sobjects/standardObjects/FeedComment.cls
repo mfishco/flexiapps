@@ -14,7 +14,7 @@ global class FeedComment {
     global Id CreatedById;
     global Datetime CreatedDate;
     global List<FeedAttachment> FeedAttachments;
-    global List<FeedLike> FeedEntity;
+    global List<FeedSignal> FeedEntity;
     global SObject FeedItem;
     global Id FeedItemId;
     global List<FeedRevision> FeedRevisions;

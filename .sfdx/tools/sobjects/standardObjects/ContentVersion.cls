@@ -18,7 +18,7 @@ global class ContentVersion {
     global Datetime ContentModifiedDate;
     global Integer ContentSize;
     global String ContentUrl;
-    global List<ContentVersionComment> ContentVersion;
+    global List<ContentVersionRating> ContentVersion;
     global User CreatedBy;
     global Id CreatedById;
     global Datetime CreatedDate;
