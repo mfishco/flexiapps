@@ -15,8 +15,7 @@ apex.db
 .eslintrc.json
 jsconfig.json
 package.xml
-extension.json
-launch.json
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 
